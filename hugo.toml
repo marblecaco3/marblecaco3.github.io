@@ -1,7 +1,11 @@
 baseURL = 'https://marblecaco3.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Home'
 theme = 'smigle'
+
+[params]
+  subtitle = ' '
+  Author = "marblecaco3"
 
 [markup.goldmark.renderer]
 unsafe = true
